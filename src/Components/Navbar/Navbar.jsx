@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import { icons } from "react-icons";
 import { BiSearch } from "react-icons/bi";
 import { BsPerson } from "react-icons/bs";
 import { HiOutlineMenuAlt4 } from "react-icons/hi";

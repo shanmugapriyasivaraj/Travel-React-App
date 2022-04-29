@@ -1,7 +1,6 @@
 import React from "react";
 import "./SelectsImg.css";
 
-import BoraBora from "../../assets/borabora.jpg";
 function SelectsImg({ bgImg, text }) {
   return (
     <div className="selects-location">
